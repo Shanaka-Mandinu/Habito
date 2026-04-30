@@ -1,0 +1,1 @@
+Place non-Android resource assets here (e.g., SVGs, JSON).

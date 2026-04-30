@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Mode Primary Colors (Soft Purple Theme) -->
+    <color name="primary_blue">#6C63FF</color>
+    <color name="primary_purple">#8B80FF</color>
+    <color name="primary_pink">#FF6B9D</color>
+    
+    <!-- Light Background Colors -->
+    <color name="gradient_start">#C7DFFB</color>
+    <color name="gradient_middle">#D9C6F5</color>
+    <color name="gradient_end">#EAD6FB</color>
+
+
+    <!-- Card and Surface Colors -->
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_background_dark">#F8F9FA</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#F5F7FA</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#1C1C1E</color>
+    <color name="text_secondary">#5C5C7A</color>
+    <color name="text_hint">#9CA3AF</color>
+    <color name="text_white">#FFFFFF</color>
+    
+    <!-- Accent Colors (Soft and Modern) -->
+    <color name="accent_green">#34D399</color>
+    <color name="accent_orange">#FB923C</color>
+    <color name="accent_red">#F87171</color>
+    <color name="accent_yellow">#FBBF24</color>
+    
+    <!-- Light Mode Glass Effect -->
+    <color name="glass_white">#EFEAFE</color>
+    <color name="glass_dark">#10000000</color>
+    
+    <!-- Status Colors (Light Mode) -->
+    <color name="success">#34D399</color>
+    <color name="warning">#FBBF24</color>
+    <color name="error">#F87171</color>
+    <color name="info">#60A5FA</color>
+    
+    <!-- Light Mode Specific Colors -->
+    <color name="background_light">#FFFFFF</color>
+    <color name="card_border">#E5E7EB</color>
+    <color name="divider">#F3F4F6</color>
+    
+    <!-- Traditional Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+    
+</resources>
